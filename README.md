@@ -6,10 +6,14 @@
 [Écrivez une brève description de vous-même et de vos intérêts.]
 
 ## Compétences
-- [Compétence 1] ![Progress](http://progressed.io/bar/80)
-- [Compétence 2] ![Progress](http://progressed.io/bar/60)
-- [Compétence 3] ![Progress](http://progressed.io/bar/90)
-- ...
+### Langages de programmation
+![Langages de programmation](https://example.com/programming_languages_chart.png)
+
+### Outils de développement
+![Outils de développement](https://example.com/development_tools_chart.png)
+
+### Compétences techniques
+![Compétences techniques](https://example.com/technical_skills_chart.png)
 
 ## Projets récents
 ### [Nom du Projet 1]
@@ -30,3 +34,4 @@
 ## Contact
 - [Adresse email]
 - [Liens vers vos réseaux sociaux ou votre site web]
+
