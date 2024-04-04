@@ -1,6 +1,6 @@
 ### Welcome ! 👋
 
-[![](https://github.com/stevenbachimont/stevenbachimont/blob/main/Capture%20vid%C3%A9o%20du%202024-04-04%2023-32-56.webm)]()<!-- If you want the template for my gif, email me! -->
+[![](https://github.com/stevenbachimont/stevenbachimont/blob/main/sb.GIF)]()<!-- If you want the template for my gif, email me! -->
 
 
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
