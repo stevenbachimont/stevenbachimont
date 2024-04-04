@@ -1,6 +1,6 @@
 ### Welcome ! 👋
 
-[![](https://github.com/stevenbachimont/stevenbachimont/blob/main/sb.GIF)]()<!-- If you want the template for my gif, email me! -->
+[![](https://github.com/stevenbachimont/stevenbachimont/blob/main/sb.GIF)]()
 
 
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
