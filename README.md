@@ -77,7 +77,7 @@
 
 ## Quelques stats
 
-![Stats](https://github-readme-streak-stats.herokuapp.com?user=stevenbachimont&theme=onedark&locale=fr)]
+![Stats](https://github-readme-streak-stats.herokuapp.com?user=stevenbachimont&theme=onedark&locale=fr)
 
 
 
