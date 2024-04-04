@@ -1,6 +1,6 @@
 ### Welcome ! 👋
 
-![](https://raw.githubusercontent.com/stevenbachimont/stevenbachimont/blob/main/sb.webm)
+![](https://github.com/stevenbachimont/stevenbachimont/raw/main/sb.webm)
 
 
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
