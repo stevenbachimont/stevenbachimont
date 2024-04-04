@@ -8,7 +8,6 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/Drakolab-yt/)
 
 ## Languages et outils
 
