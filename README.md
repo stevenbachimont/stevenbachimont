@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**stevenbachimont/stevenbachimont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [Votre Nom]
 
-Here are some ideas to get you started:
+## À propos de moi
+[Écrivez une brève description de vous-même et de vos intérêts.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences
+- [Compétence 1] ![Progress](http://progressed.io/bar/80)
+- [Compétence 2] ![Progress](http://progressed.io/bar/60)
+- [Compétence 3] ![Progress](http://progressed.io/bar/90)
+- ...
+
+## Projets récents
+### [Nom du Projet 1]
+- [Description du projet 1]
+- [Lien vers le projet 1]
+
+### [Nom du Projet 2]
+- [Description du projet 2]
+- [Lien vers le projet 2]
+
+### [Nom du Projet 3]
+- [Description du projet 3]
+- [Lien vers le projet 3]
+
+## Contributions Open Source
+- [Nom du projet open source] - [Description de votre contribution]
+
+## Contact
+- [Adresse email]
+- [Liens vers vos réseaux sociaux ou votre site web]
