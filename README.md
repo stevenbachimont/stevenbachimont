@@ -2,7 +2,7 @@
 ![](https://stevenbachimont.github.io/title/)
 ![](https://raw.githubusercontent.com/stevenbachimont/stevenbachimont/main/test.gif)
 
-
+# Développeur full JS 
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)
@@ -12,11 +12,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=stevenbachimont)](https://github.com/stevenbachimont/github-profile-trophy)
 
 
-## Je mâitrise
+## Je mâitrise et j'ai compris 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-
-## J'ai compris
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
