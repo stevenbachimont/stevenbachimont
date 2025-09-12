@@ -2,7 +2,7 @@
 ![](https://stevenbachimont.github.io/title/)
 ![](https://raw.githubusercontent.com/stevenbachimont/stevenbachimont/main/test.gif)
 
-# Développeur full JS 
+# Développeur full JS & MORE
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)
