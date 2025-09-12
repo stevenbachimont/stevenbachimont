@@ -5,8 +5,8 @@
 # Développeur full JS & MORE
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)
-![Odysee](https://img.shields.io/badge/odysee-EF1970?style=for-the-badge&logo=Odysee&logoColor=white)
+
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=stevenbachimont)](https://github.com/stevenbachimont/github-profile-trophy)
@@ -78,7 +78,7 @@
 ## Quelques stats
 
 ![Stats](https://github-readme-streak-stats.herokuapp.com?user=stevenbachimont&theme=onedark&locale=fr)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevenbachimont&theme=dark&hide_border=true&locale=fr&card_width=800)](https://git.io/streak-stats)
 
 
  https://home.aveek.io/GitHub-Profile-Badges/
