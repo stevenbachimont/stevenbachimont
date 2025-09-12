@@ -57,7 +57,7 @@
 ![FALCO](https://img.shields.io/badge/Falco-00AEC7.svg?style=for-the-badge&logo=Falco&logoColor=white)
 
 ## OS
-![Linux]([https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black))
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![Apple](https://img.shields.io/badge/Apple-000000.svg?style=for-the-badge&logo=Apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white)
 
