@@ -76,20 +76,6 @@
 ---
 </p>
 
-## Statistiques GitHub
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevenbachimont&theme=dark&hide_border=true&locale=fr&card_width=800)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenbachimont&layout=compact&theme=dark&hide_border=true&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stevenbachimont&show_icons=true&theme=dark&hide_border=true&locale=fr&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
 ## Mes Plateformes
 
 | Plateforme | Lien |
@@ -98,9 +84,6 @@
 | **CodePen** | [@stevenbachimont](https://codepen.io/stevenbachimont) |
 | **LinkedIn** | [stevenbachimont](https://linkedin.com/in/stevenbachimont) |
 | **Codewars** | [stevenbachimont](https://www.codewars.com/users/stevenbachimont) |
-
----
-
 
 <div align="center">
 
