@@ -1,9 +1,5 @@
-#  Salut, je suis Steven Bachimont
-
 ![](https://stevenbachimont.github.io/title/)
 ![](https://raw.githubusercontent.com/stevenbachimont/stevenbachimont/main/test.gif)
-
-## Développeur Full-Stack & Créateur Numérique
 
 <p align='center'>
 <!-- <img src='https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6'> -->
@@ -24,7 +20,7 @@
 <!-- <img align='left' src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tynab&theme=dracula' /> -->
 
 <p algin='right'>
-   
+### Développeur Full-Stack & Créateur Numérique
 ## Stack Technique
 
 ### Frontend
