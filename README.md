@@ -1,15 +1,15 @@
-# �� Salut, je suis Steven Bachimont
+#  Salut, je suis Steven Bachimont
 
 ![](https://stevenbachimont.github.io/title/)
 ![](https://raw.githubusercontent.com/stevenbachimont/stevenbachimont/main/test.gif)
 
-## 🚀 Développeur Full-Stack & Créateur Numérique
+## Développeur Full-Stack & Créateur Numérique
 
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/stevenbachimont)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stevenbachimont)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://stevenbachimont.github.io)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=stevenbachimont&theme=darkhub&no-frame=true&column=4)](https://github.com/stevenbachimont/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=stevenbachimont)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
