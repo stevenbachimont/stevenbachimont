@@ -89,6 +89,5 @@
 
 ### Prêt à collaborer sur des projets innovants !
 
-![Visitor Count](https://profile-counter.glitch.me/stevenbachimont/count.svg)
 
 </div>
