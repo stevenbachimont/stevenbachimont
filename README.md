@@ -9,11 +9,10 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stevenbachimont)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://stevenbachimont.github.io)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=stevenbachimont)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
----
 
-## ��️ Stack Technique
+## Stack Technique
 
 ### Frontend
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white)
@@ -46,7 +45,7 @@
 
 ---
 
-## 🎯 Objectifs d'Apprentissage
+## Objectifs d'Apprentissage
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -54,7 +53,7 @@
 
 ---
 
-## �� Arts Numériques & Création
+## Arts Numériques & Création
 
 ![MaxMSP](https://img.shields.io/badge/Max-525252.svg?style=for-the-badge&logo=Max&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
@@ -63,7 +62,7 @@
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
 
@@ -77,26 +76,21 @@
 
 ---
 
-## 🌟 Mes Plateformes
+## Mes Plateformes
 
 | Plateforme | Lien |
 |------------|------|
-| 💼 **Portfolio** | [stevenbachimont.github.io](https://stevenbachimont.github.io) |
-| 💻 **CodePen** | [@stevenbachimont](https://codepen.io/stevenbachimont) |
-| �� **LinkedIn** | [stevenbachimont](https://linkedin.com/in/stevenbachimont) |
-| 🏆 **Codewars** | [stevenbachimont](https://www.codewars.com/users/stevenbachimont) |
+| **Portfolio** | [stevenbachimont.github.io](https://stevenbachimont.github.io) |
+| **CodePen** | [@stevenbachimont](https://codepen.io/stevenbachimont) |
+| **LinkedIn** | [stevenbachimont](https://linkedin.com/in/stevenbachimont) |
+| **Codewars** | [stevenbachimont](https://www.codewars.com/users/stevenbachimont) |
 
 ---
 
-## �� Citation du Jour
-
-> *"Le code est comme l'humour. Quand vous devez l'expliquer, c'est mauvais."* - Cory House
-
----
 
 <div align="center">
 
-### 🚀 Prêt à collaborer sur des projets innovants !
+### Prêt à collaborer sur des projets innovants !
 
 ![Visitor Count](https://profile-counter.glitch.me/stevenbachimont/count.svg)
 
