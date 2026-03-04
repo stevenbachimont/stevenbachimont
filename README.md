@@ -78,7 +78,7 @@
 
 | Plateforme | Lien |
 |------------|------|
-| **Portfolio** | [stevenbachimont.github.io](https://stevenbachimont.github.io) |
+| **siteweb** | [stevenbachimont.com](https://stevenbachimont.com) |
 | **CodePen** | [@stevenbachimont](https://codepen.io/stevenbachimont) |
 | **LinkedIn** | [stevenbachimont](https://linkedin.com/in/stevenbachimont) |
 | **Codewars** | [stevenbachimont](https://www.codewars.com/users/stevenbachimont) |
